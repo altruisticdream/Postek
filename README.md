@@ -6,5 +6,5 @@ enthusiastic. <br>
 • Technology used : Frontend: HTML ,CSS ,JavaScript, Php.<br>
 
 
-<img src="https://user-images.githubusercontent.com/63090622/161615422-ac28cd8b-658f-432a-abd6-3d7a008386f2.png" alt="Splash Screen" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/63090622/161615422-ac28cd8b-658f-432a-abd6-3d7a008386f2.png" alt="Splash Screen" width="1000" height="700">
 
