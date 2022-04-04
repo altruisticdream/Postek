@@ -12,10 +12,6 @@ enthusiastic. <br>
 
 <img src="https://user-images.githubusercontent.com/63090622/161616044-c7b2fc97-c897-411f-902b-25794f16d127.png" alt="Splash Screen" width="2000" height="700">
 
-<img src="https://user-images.githubusercontent.com/63090622/161615422-ac28cd8b-658f-432a-abd6-3d7a008386f2.png" alt="Splash Screen" width="2000" height="700">
+<img src="https://user-images.githubusercontent.com/63090622/161616140-bf15c396-a17e-4362-9578-388b22a19009.png" alt="Splash Screen" width="2000" height="700">
 
-
-
-
-<img src="https://user-images.githubusercontent.com/63090622/161615422-ac28cd8b-658f-432a-abd6-3d7a008386f2.png" alt="Splash Screen" width="2000" height="700">
 
